@@ -1,5 +1,5 @@
-# help fireman keep track of fire stats
-help fireman keep track of fire stats
+# help fireman keep track of fire statistics
+help fireman keep track of fire stats.
 
 == We're Using GitHub Under Protest ==
 
