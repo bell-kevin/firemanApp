@@ -1,9 +1,9 @@
 # help fireman keep track of fire statistics
 help fireman keep track of fire stats.
 
-![p](https://github.com/bell-kevin/firemanApp/blob/main/fit2.PNG)
+![p](https://github.com/bell-kevin/firemanApp/blob/main/screenshots/fit2.PNG)
 
-![p](https://github.com/bell-kevin/firemanApp/blob/main/fit.PNG)
+![p](https://github.com/bell-kevin/firemanApp/blob/main/screenshots/fit.PNG)
 
 == We're Using GitHub Under Protest ==
 
