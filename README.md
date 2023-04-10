@@ -1,6 +1,8 @@
 # help fireman keep track of fire statistics
 help fireman keep track of fire stats.
 
+![p](https://github.com/bell-kevin/firemanApp/blob/main/fit.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
