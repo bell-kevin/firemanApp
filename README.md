@@ -1,6 +1,8 @@
 # help fireman keep track of fire statistics
 help fireman keep track of fire stats.
 
+Syracuse, Utah
+
 ![p](https://github.com/bell-kevin/firemanApp/blob/main/screenshots/fit2.PNG)
 
 ![p](https://github.com/bell-kevin/firemanApp/blob/main/screenshots/fit.PNG)
