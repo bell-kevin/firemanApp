@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@expo/webpack-config": "^19.0.1",
-    "expo": "~52.0.36",
+    "expo": "~52.0.37",
     "expo-status-bar": "~2.0.1",
     "react": "19.0.0",
     "react-dom": "19.0.0",
