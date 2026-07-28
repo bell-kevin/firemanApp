@@ -14,7 +14,7 @@
     "expo-status-bar": "~57.0.1",
     "react": "19.2.8",
     "react-dom": "19.2.8",
-    "react-native": "0.86.0",
+    "react-native": "0.86.2",
     "react-native-draggable": "^3.3.0",
     "react-native-drax": "^1.1.0",
     "react-native-dropdown-picker": "^5.4.6",
